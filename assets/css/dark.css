@@ -128,13 +128,13 @@ div .btn-primary:hover {
 }
 
 .bg-primary {
-  background-color: #80158A !important;
+  background-color: #B23456 !important;
 }
 
 .btn-primary, .btn-primary:focus {
   color: rgba(255, 255, 255, 0.7);
-  background-color: #80158A !important;
-  border-color: #80158A !important;
+  background-color: #B23456 !important;
+  border-color: #B23456 !important;
 }
 
 .btn-primary:hover, .btn-primary:active {
@@ -143,17 +143,17 @@ div .btn-primary:hover {
 }
 
 .btn-outline-primary {
-  color: #80158A;
-  border-color: #80158A;
+  color: #B23456;
+  border-color: #B23456;
 }
 
 .btn-outline-primary:hover, .btn-outline-primary:active {
-  background-color: #80158A !important;
-  border-color: #80158A !important;
+  background-color: #B23456 !important;
+  border-color: #B23456 !important;
 }
 
 .text-primary {
-  background-color: #80158A !important;
+  background-color: #B23456 !important;
 }
 
 .btn-outline-secondary {
@@ -224,7 +224,7 @@ html[dir=rtl] .navbar-toggler {
 }
 
 .dropdown-menu, .dropdown .hover-content {
-  background-color: #80158A;
+  background-color: #B23456;
   -webkit-transition: 300ms ease;
   transition: 300ms ease;
   display: block;
