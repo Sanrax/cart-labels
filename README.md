@@ -1,8 +1,8 @@
-# Flashcart Kernel Themes Index
+# Flashcart Labels Index
 
-This site is a download repository for flashcart kernel themes. Currently, the site is hosting AKMenu/WoodR4 themes, but more kernels will be added soon.
+This site is a download repository for flashcart labels.
 
-<https://sanrax.github.io/kernel-themes/>
+<https://sanrax.github.io/cart-labels/>
 
 ### Building the site locally
 
@@ -14,5 +14,5 @@ This site is a download repository for flashcart kernel themes. Currently, the s
 
 ### License
 
-- All files under the `_akmenu` directory (the theme index) is licensed under CC-BY-NC-SA 4.0. You may read more in `LICENSE-docs.txt`.
+- All files under the `_labels` directory (the theme index) is licensed under CC-BY-NC-SA 4.0. You may read more in `LICENSE-docs.txt`.
 - All other files are licensed under the GPLv3 license. You may read more in `LICENSE-engine.txt`.
