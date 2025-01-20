@@ -7,8 +7,6 @@ title: Home
 
 ---
 
-**This is a repository to host organized theme downloads for various flashcart kernels, such as WoodR4/AKMenu and YSMenu.**
+**This is a repository to host organized label downloads for various flashcarts.**
 
-*Click an option below to browse available themes:*
-
-[![WoodR4/AKMenu]({{site.baseurl}}/assets/images/site-images/AKMenu_TitlePage.png){: width="384" }]({{site.baseurl}}/akmenu/)
+[*Click here to browse available labels*]({{site.baseurl}}/labels/)

@@ -1,7 +1,7 @@
 # theme       : jekyll-theme-slate
-title       : "Kernel Themes"
-description : "A repository for flashcart kernel themes"
-repo        : "Sanrax/kernel-themes"
+title       : "Flashcart Labels"
+description : "A repository for flashcart labels"
+repo        : "Sanrax/cart-labels"
 color       : "#B23456"
 image       : "/assets/images/favicon/favicon-196x196.png"
 
@@ -20,5 +20,5 @@ defaults:
       layout: app
 
 collections:
-  akmenu:
+  labels:
     output: true
