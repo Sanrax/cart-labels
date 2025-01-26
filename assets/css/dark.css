@@ -367,11 +367,11 @@ html[dir=rtl] .end-3 {
 }
 
 .card-image {
-  max-height: 128px;
+  max-height: 168px;
 }
 
 .card-image-header {
-  height: 145px;
+  height: 185px;
   display: flex;
   align-items: center;
   justify-content: center;
