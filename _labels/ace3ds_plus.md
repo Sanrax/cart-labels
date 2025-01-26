@@ -5,8 +5,8 @@ description:
 categories:
 downloads:
   Test_Cart.png:
-    url: "/assets/downloads/Test_Cart.png"
+    url: "/assets/downloads/ace3ds_plus.pdf"
 images:
-- url: "/assets/images/labels/test_cart.png"
+- url: "/assets/images/labels/preview_ace3ds_plus.png"
 
 ---
