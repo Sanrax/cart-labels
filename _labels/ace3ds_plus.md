@@ -1,8 +1,8 @@
 ---
 title: Ace3DS Plus
-creator: Ocedalv
-description: 
-categories:
+creator: CharlieSIGMA
+description: Test description
+categories: Test category
 downloads:
   ace3ds_plus.pdf:
     url: "/assets/downloads/ace3ds_plus.pdf"
