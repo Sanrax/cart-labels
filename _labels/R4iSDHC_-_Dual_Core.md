@@ -13,3 +13,5 @@ images:
 - url: "/assets/images/labels/R4iSDHC/preview_dual_core.png"
 - url: "/assets/images/labels/R4iSDHC/preview_dual_core_alt.png"
 ---
+
+{% include instructions/printing.md %}

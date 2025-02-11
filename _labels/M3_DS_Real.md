@@ -13,3 +13,5 @@ images:
 - url: "/assets/images/labels/M3 DS Real/preview.png"
 - url: "/assets/images/labels/M3 DS Real/preview_sakura.png"
 ---
+
+{% include instructions/printing.md %}

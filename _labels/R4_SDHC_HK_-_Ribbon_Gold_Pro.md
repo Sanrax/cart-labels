@@ -13,3 +13,5 @@ images:
 - url: "/assets/images/labels/R4 SDHC (HK)/preview_hk_banner_gold_pro.png"
 - url: "/assets/images/labels/R4 SDHC (HK)/preview_hk_banner_gold_pro_alt.png"
 ---
+
+{% include instructions/printing.md %}

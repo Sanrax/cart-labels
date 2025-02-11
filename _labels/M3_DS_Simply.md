@@ -10,3 +10,5 @@ downloads:
 images:
 - url: "/assets/images/labels/M3 DS Simply/preview.png"
 ---
+
+{% include instructions/printing.md %}

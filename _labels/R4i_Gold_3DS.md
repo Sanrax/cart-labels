@@ -13,3 +13,5 @@ images:
 - url: "/assets/images/labels/R4i Gold 3DS/preview.png"
 - url: "/assets/images/labels/R4i Gold 3DS/preview_rts.png"
 ---
+
+{% include instructions/printing.md %}

@@ -10,3 +10,5 @@ downloads:
 images:
 - url: "/assets/images/labels/DSLinker 16G/preview.png"
 ---
+
+{% include instructions/printing.md %}

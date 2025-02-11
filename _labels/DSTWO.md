@@ -10,3 +10,5 @@ downloads:
 images:
 - url: "/assets/images/labels/DSTWO/preview.png"
 ---
+
+{% include instructions/printing.md %}

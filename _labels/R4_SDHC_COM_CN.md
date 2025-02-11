@@ -13,3 +13,5 @@ images:
 - url: "/assets/images/labels/R4 SDHC (CN)/preview.png"
 - url: "/assets/images/labels/R4 SDHC (CN)/preview_alt.png"
 ---
+
+{% include instructions/printing.md %}

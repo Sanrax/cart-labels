@@ -1,6 +1,6 @@
 ---
 title: NCard 2GB
-creator: ApacheThunder
+creator: JéréMyDePain
 description:
 categories:
 - Original
@@ -10,3 +10,5 @@ downloads:
 images:
 - url: "/assets/images/labels/NCard 2GB/preview.png"
 ---
+
+{% include instructions/printing.md %}

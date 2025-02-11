@@ -13,3 +13,5 @@ images:
 - url: "/assets/images/labels/Acekard 2/preview_2i_DSi.png"
 - url: "/assets/images/labels/Acekard 2/preview_2i_DSi_3DS.png"
 ---
+
+{% include instructions/printing.md %}

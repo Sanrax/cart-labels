@@ -13,3 +13,5 @@ images:
 - url: "/assets/images/labels/R4iSDHC/preview_rts_lite.png"
 - url: "/assets/images/labels/R4iSDHC/preview_rts_lite_alt.png"
 ---
+
+{% include instructions/printing.md %}

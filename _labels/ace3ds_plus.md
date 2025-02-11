@@ -10,3 +10,5 @@ downloads:
 images:
 - url: "/assets/images/labels/Ace3DS Plus/preview.png"
 ---
+
+{% include instructions/printing.md %}

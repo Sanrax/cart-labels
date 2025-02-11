@@ -10,3 +10,5 @@ downloads:
 images:
 - url: "/assets/images/labels/R4 SDHC (HK)/preview_hk_banner_dual_core.png"
 ---
+
+{% include instructions/printing.md %}

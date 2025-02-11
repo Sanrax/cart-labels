@@ -10,3 +10,5 @@ downloads:
 images:
 - url: "/assets/images/labels/Acekard 2/preview_21.png"
 ---
+
+{% include instructions/printing.md %}

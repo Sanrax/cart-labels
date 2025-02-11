@@ -10,3 +10,5 @@ downloads:
 images:
 - url: "/assets/images/labels/R4iLS/preview.png"
 ---
+
+{% include instructions/printing.md %}
