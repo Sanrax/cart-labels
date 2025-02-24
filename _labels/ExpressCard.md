@@ -8,7 +8,7 @@ downloads:
   expresscard.pdf:
     url: "/assets/downloads/expresscard.pdf"
 images:
-- url: "/assets/images/labels/ExpressCard/preview.png"
+- url: "/assets/images/labels/ExpressCard/Preview.png"
 ---
 
 {% include instructions/printing.md %}
