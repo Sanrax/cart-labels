@@ -10,8 +10,8 @@ downloads:
   dstti_alt.pdf:
     url: "/assets/downloads/dstti_alt.pdf"
 images:
-- url: "/assets/images/labels/DSTT/preview.png"
-- url: "/assets/images/labels/DSTT/preview_alt.png"
+- url: "/assets/images/labels/DSTTi/preview.png"
+- url: "/assets/images/labels/DSTTi/preview_alt.png"
 ---
 
 {% include instructions/printing.md %}
