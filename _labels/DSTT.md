@@ -11,7 +11,7 @@ downloads:
     url: "/assets/downloads/dstt_alt.pdf"
 images:
 - url: "/assets/images/labels/DSTT/preview.png"
-- url: "/assets/images/labels/DSTT/preview_alt"
+- url: "/assets/images/labels/DSTT/preview_alt.png"
 ---
 
 {% include instructions/printing.md %}
